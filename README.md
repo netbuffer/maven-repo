@@ -1,2 +1,2 @@
 # maven-repo
-repository repository
+use github build maven repository
